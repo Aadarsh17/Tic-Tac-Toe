@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tic-Tac-Toe Game
 
 <p align="center">
@@ -165,3 +166,7 @@ Developed and designed by **Ramazan Çetinkaya**
 ## Acknowledgements
 
 - Special thanks to the open-source community for inspiration
+=======
+# Tic-Tac-Toe
+A simple Tic-Tac-Toe web game — play vs CPU or 2-player local mode. Built by Aadarsh.
+>>>>>>> 1c3e0c211d25a2065965a8fc85cd7bdbb574e83f
