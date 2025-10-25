@@ -43,3 +43,7 @@ Play the game live on GitHub Pages:
 git clone https://github.com/Aadarsh17/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
 open index.html in your browser
+
+**Credits**
+- Original Tic-Tac-Toe by [Ramazan Çetinkaya](https://github.com/ramazancetinkaya) 
+- Adapted and uploaded by Aadarsh17
