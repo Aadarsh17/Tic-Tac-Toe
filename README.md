@@ -48,7 +48,7 @@ open index.html in your browser
 
 ## 🎖 Credits
 
-**Original Game:** [Author][Ramazan Çetinkaya](https://github.com/ramazancetinkaya) <br>
-**Adapted and uploaded by:** **Aadarsh17**
+**Original Game:** [Ramazan Çetinkaya](https://github.com/ramazancetinkaya) <br>
+**Adapted and uploaded by:** **<i>Aadarsh17</i>**
 
 ```
